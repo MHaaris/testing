@@ -1,2 +1,2 @@
 # testing
-this is for practise only
+This is for Practise Only.

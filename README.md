@@ -1,2 +1,1 @@
-# testing
-This is for Practise Only.
+# dice-hello-world-java
